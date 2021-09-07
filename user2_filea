@@ -1,9 +1,0 @@
-UID          PID    PPID  C STIME TTY          TIME CMD
-root           1       0  0 09:38 pts/0    00:00:00 /bin/bash
-root          15       0  0 09:38 pts/1    00:00:00 /bin/bash
-root         304      15  0 11:13 pts/1    00:00:00 ps -ef
-This part of code is from user1 from while he is still adding.......
-CONTAINER ID   IMAGE     COMMAND       CREATED       STATUS       PORTS     NAMES
-4db273ec66ac   centos    "/bin/bash"   2 hours ago   Up 2 hours             u3
-dad28cd36737   centos    "/bin/bash"   2 hours ago   Up 2 hours             u2
-This part is from user2, because he added new content & then pushed immediately before user1
